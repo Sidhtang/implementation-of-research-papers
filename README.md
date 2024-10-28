@@ -61,6 +61,8 @@ Multiple Attempts: If a generated response violates the rules, it will try again
 Distributed Training: Can train across multiple GPUs for better performance.
 Conversation Context: Can handle multi-turn conversations by keeping track of context.
 Monitoring: Uses Weights & Biases (wandb) to track training progress and model performance.
+![image](https://github.com/user-attachments/assets/5970ebc8-2c22-4436-9dfe-ea7bcb3b81ec)
+
 
 Think of it like having an AI assistant with two parts:
 
