@@ -1,5 +1,6 @@
 # implementation-of-research-papers
 paper 1  reinforcement learning with human feeback
+
 paper 2 constituional ai with human feedback
 "Constitutional AI" system - essentially an AI model that is trained to generate responses while following specific ethical and safety rules. Here's the key functionality:
 
